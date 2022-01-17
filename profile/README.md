@@ -4,20 +4,13 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
 
 ### EXPRESSbase Micro-Services & Libraries
 
-* [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase)
-* [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common)
-* [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects)
-* [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack)
-* [ExpressBase.Web](https://github.com/ExpressBaseSystems/ExpressBase.Web)
-* [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer)
-* [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb)
-* [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer)
-* [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue)
-* [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents)
-* [ExpressBase.Scheduler](https://github.com/ExpressBaseSystems/ExpressBase.Scheduler)
-* [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile)
-* [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android)
-* [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) - Not Ready/Currently Stalled
+| [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase) | [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common) |
+| [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects) | [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack) |
+| [ExpressBase.Web](https://github.com/ExpressBaseSystems/ExpressBase.Web) | [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer) |
+| [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb) | [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer) |
+| [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue) | [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents) |
+| [ExpressBase.Scheduler](https://github.com/ExpressBaseSystems/ExpressBase.Scheduler) | [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile) |
+| [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android) | [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) - Not Ready/Currently Stalled |
 
 ## EXPRESSbase Low-Code Platform is Built With
 
