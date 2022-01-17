@@ -1,4 +1,42 @@
-**EXPRESSbase** is an open-source, **low-code platform** to build internal process applications on web/mobile 10x faster. Truly multi-tenant, cloud-native, cloud-provider agnostic low-code platform desinged with micro-services architecture.
+[EXPRESSbase](https://expressbase.com) is an open-source, Low-Code Rapid application development platform on the cloud for fast-growing SME (Small to Mid-sized business) to build & run internal process apps on web/mobile 10x faster. It is a truly multi-tenant, multi-database, cloud-native platform developed using micro-services architecture (not truly micro-services yet :D).
+
+EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
+
+### EXPRESSbase Micro-Services & Libraries
+
+* [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase)
+* [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common)
+* [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects)
+* [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack)
+* [ExpressBase.Web](https://github.com/ExpressBaseSystems/ExpressBase.Web)
+* [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer)
+* [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb)
+* [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer)
+* [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue)
+* [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents)
+* [ExpressBase.Scheduler](https://github.com/ExpressBaseSystems/ExpressBase.Scheduler)
+
+* [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile)
+* [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android)
+* [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) - Not Ready/Currently Stalled
+
+## EXPRESSbase Low-Code Platform is Built With
+
+* [.NET Core](https://dotnet.microsoft.com/en-us/download/dotnet)
+* [ServiceStack.NET](https://servicestack.net/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Npgsql](https://www.npgsql.org/)
+* [Redis](https://redis.io/) - Caching & Server Events
+* [RabbitMQ](https://www.rabbitmq.com/) - Message Queue
+* [Quartz.NET](https://www.quartz-scheduler.net/) - Scheduler
+* [iTextSharp](https://github.com/itext/itextsharp) - Data-driven PDF generation
+* [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - Mobile
+
+## Acknowledgments
+
+* [Kerala Startup Mission](https://startupmission.kerala.gov.in/)
+* [NASSCOM 10k Startups](http://10000startups.com/)
+* [Start-Up Chile](https://startupchile.org/en/)
 
 <!--
 
