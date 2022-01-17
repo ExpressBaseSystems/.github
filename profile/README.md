@@ -15,7 +15,6 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
 * [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue)
 * [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents)
 * [ExpressBase.Scheduler](https://github.com/ExpressBaseSystems/ExpressBase.Scheduler)
-
 * [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile)
 * [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android)
 * [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) - Not Ready/Currently Stalled
