@@ -3,9 +3,9 @@
 EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
 
 ### EXPRESSbase Micro-Services & Libraries
-|       |
-|---|---|
-| [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase) | [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common) |
+|   |   |   |
+|---|---|---|
+| [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase) | [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common) | 
 | [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects) | [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack) |
 | [ExpressBase.Web](https://github.com/ExpressBaseSystems/ExpressBase.Web) | [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer) |
 | [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb) | [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer) |
