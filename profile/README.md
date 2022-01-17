@@ -3,15 +3,15 @@
 EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
 
 ### EXPRESSbase Micro-Services & Libraries
-|  Libraries | Microservices  |
+|  Libraries/Client Programs | Microservices  |
 |---|---|
 | [ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase) | [ExpressBase.Web](https://github.com/ExpressBaseSystems/ExpressBase.Web) | 
-| [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects) | [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack) |
-| [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common) | [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer) |
-| [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile) | [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb) |
-| [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android) | [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer) |
-| [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) | [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue) | 
-|  | [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents) |
+| [ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common) | [ExpressBase.ServiceStack](https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack) |
+| [ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects) | [ExpressBase.AuthServer](https://github.com/ExpressBaseSystems/ExpressBase.AuthServer) |
+|  | [ExpressBase.FileWeb](https://github.com/ExpressBaseSystems/ExpressBase.FileWeb) |
+| [ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile) | [ExpressBase.FileServer](https://github.com/ExpressBaseSystems/ExpressBase.FileServer) |
+| [ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android) | [ExpressBase.MessageQueue](https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue) | 
+| [ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS) | [ExpressBase.ServerEvents](https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents) |
 |  | [ExpressBase.Scheduler](https://github.com/ExpressBaseSystems/ExpressBase.Scheduler) | 
 
 ## EXPRESSbase Low-Code Platform is Built With
