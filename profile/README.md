@@ -1,4 +1,4 @@
-**EXPRESSbase** is an open-source, **low-code platform** to build internal process applications on web/mobile 10x faster.
+**EXPRESSbase** is an open-source, **low-code platform** to build internal process applications on web/mobile 10x faster. Truly multi-tenant, cloud-native, cloud-provider agnostic low-code platform desinged with micro-services architecture.
 
 <!--
 
