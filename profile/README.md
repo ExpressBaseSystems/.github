@@ -2,9 +2,7 @@
 
 EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
 
-<style>
-#fooTable {border: 0}
-</style>
+<style>#fooTable {border: 0}</style>
 
 <table id="fooTable">
   <tr>
