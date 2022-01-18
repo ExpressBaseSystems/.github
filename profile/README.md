@@ -9,32 +9,32 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
     <td>
       <table>
         <tr><th>Libraries</th></tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.CoreBase">ExpressBase.CoreBase</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Common">ExpressBase.Common</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Objects">ExpressBase.Objects</a></td>
-        </tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.CoreBase">ExpressBase.CoreBase</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Common">ExpressBase.Common</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Objects">ExpressBase.Objects</a></td></tr>
       </table>
     </td>
     <td>
       <table>
         <tr><th>Mobile</th></tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile">ExpressBase.Mobile</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android">ExpressBase.Mobile.Android</a></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS">ExpressBase.Mobile.iOS</a></td>
-        </tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile">ExpressBase.Mobile</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android">ExpressBase.Mobile.Android</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS">ExpressBase.Mobile.iOS</a></td></tr>
       </table>  
     </td>
-    <td></td>
+    <td>
+      <table>
+        <tr><th>MicroServices</th></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Web">ExpressBase.Web</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack">ExpressBase.ServiceStack</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileWeb">ExpressBase.FileWeb</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileServer">ExpressBase.FileServer</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.AuthServer">ExpressBase.AuthServer</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue">ExpressBase.MessageQueue</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Scheduler">ExpressBase.Scheduler</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents">ExpressBase.ServerEvents</a></td></tr>
+      </table>      
+    </td>
   </tr>
 </table>
 
