@@ -8,21 +8,21 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
   <tr>
     <td>
       <table>
-        <th><td>Libraries</td></th>
+        <tr><th>Libraries</th></tr>
         <tr>
-          <td>[ExpressBase.CoreBase](https://github.com/ExpressBaseSystems/ExpressBase.CoreBase)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.CoreBase">ExpressBase.CoreBase</a></td>
         </tr>
         <tr>
-          <td>[ExpressBase.Common](https://github.com/ExpressBaseSystems/ExpressBase.Common)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Common">ExpressBase.Common</a></td>
         </tr>
         <tr>
-          <td>[ExpressBase.Objects](https://github.com/ExpressBaseSystems/ExpressBase.Objects)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Objects">ExpressBase.Objects</a></td>
         </tr>
       </table>
     </td>
     <td>
       <table>
-        <th><td>Mobile</td></th>
+        <tr><th>Mobile</th></tr>
         <tr>
           <td>[ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile)</td>
         </tr>
