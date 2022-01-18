@@ -22,15 +22,11 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
     </td>
     <td>
       <table>
-        <tr><th>MicroServices</th></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Web">ExpressBase.Web</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack">ExpressBase.ServiceStack</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileWeb">ExpressBase.FileWeb</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileServer">ExpressBase.FileServer</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.AuthServer">ExpressBase.AuthServer</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue">ExpressBase.MessageQueue</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Scheduler">ExpressBase.Scheduler</a></td></tr>
-        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents">ExpressBase.ServerEvents</a></td></tr>
+        <tr><th colspan=2>MicroServices</th></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Web">ExpressBase.Web</a></td><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.AuthServer">ExpressBase.AuthServer</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServiceStack">ExpressBase.ServiceStack</a></td><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.MessageQueue">ExpressBase.MessageQueue</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileWeb">ExpressBase.FileWeb</a></td><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Scheduler">ExpressBase.Scheduler</a></td></tr>
+        <tr><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.FileServer">ExpressBase.FileServer</a></td><td><a href="https://github.com/ExpressBaseSystems/ExpressBase.ServerEvents">ExpressBase.ServerEvents</a></td></tr>
       </table>      
     </td>
   </tr>
