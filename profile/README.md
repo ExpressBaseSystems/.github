@@ -1,8 +1,7 @@
+<style>#fooTable {border: none!important;}</style>
 [EXPRESSbase](https://expressbase.com) is an open-source, Low-Code Rapid application development platform on the cloud for fast-growing SME (Small to Mid-sized business) to build & run internal process apps on web/mobile 10x faster. It is a truly multi-tenant, multi-database, cloud-native platform developed using micro-services architecture (not truly micro-services yet :D).
 
 EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
-
-<style>#fooTable {border: none!important;}</style>
 
 <table id="fooTable">
   <tr>
