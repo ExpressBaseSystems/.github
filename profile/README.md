@@ -4,7 +4,7 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
 
 ### EXPRESSbase Micro-Services & Libraries
 
-<table border="0">
+<table style="border:0">
   <tr>
     <td>
       <table>
@@ -24,13 +24,13 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
       <table>
         <tr><th>Mobile</th></tr>
         <tr>
-          <td>[ExpressBase.Mobile](https://github.com/ExpressBaseSystems/ExpressBase.Mobile)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile">ExpressBase.Mobile</a></td>
         </tr>
         <tr>
-          <td>[ExpressBase.Mobile.Android](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.Android">ExpressBase.Mobile.Android</a></td>
         </tr>
         <tr>
-          <td>[ExpressBase.Mobile.iOS](https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS)</td>
+          <td><a href="https://github.com/ExpressBaseSystems/ExpressBase.Mobile.iOS">ExpressBase.Mobile.iOS</a></td>
         </tr>
       </table>  
     </td>
