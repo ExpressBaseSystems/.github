@@ -2,7 +2,7 @@
 
 EXPRESSbase has all the components to build huge, comprehensive internal business process apps - web & mobile. WebForm builder, MobilePage builder, Table/Chart/Map View builder, Dashboard builder, PDF builder, Email & SMS builders, Workflow/API builder, etc. It is still a work in progress, and a long way to go!
 
-<table id="fooTable">
+<center><table id="fooTable">
   <tr>
     <td>
       <table>
@@ -30,7 +30,7 @@ EXPRESSbase has all the components to build huge, comprehensive internal busines
       </table>      
     </td>
   </tr>
-</table>
+</table></center>
 
 ## EXPRESSbase Low-Code Platform is Built With
 
